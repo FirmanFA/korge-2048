@@ -54,7 +54,7 @@ Using gradle tasks on the terminal:
 ```
 
 Note that windows executables doesn't have icons bundled.
-You can use [ResourceHacker](http://www.angusj.com/resourcehacker/) to add an icon to the executable for the moment.
+You can use [ResourceHacker](http://www.angusj.com/resourcehacker/ or [Resource Cracker](https://www.pelock.com/products/resource-cracker)) to add an icon to the executable for the moment.
 Later this will be done automatically.
 
 ### Cross-Compiling for Linux/Windows
